@@ -175,7 +175,7 @@
 /vendor/lib/modules/oplus_bsp_dfr_shutdown_speed.ko:
 /vendor/lib/modules/oplus_network_game_first.ko:
 /vendor/lib/modules/gsim.ko: /vendor/lib/modules/qcom_va_minidump.ko
-/vendor/lib/modules/si_haptic.ko:
+/vendor/lib/modules/si_haptic.ko: /vendor/lib/modules/haptic_feedback.ko
 /vendor/lib/modules/wsa884x_dlkm.ko: /vendor/lib/modules/wcd_core_dlkm.ko /vendor/lib/modules/swr_dlkm.ko
 /vendor/lib/modules/oplus_bsp_fw_update.ko:
 /vendor/lib/modules/smmu_proxy_dlkm.ko: /vendor/lib/modules/smcinvoke_dlkm.ko /vendor/lib/modules/qseecom_proxy.ko
