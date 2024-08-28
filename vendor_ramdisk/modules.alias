@@ -112,6 +112,8 @@ alias of:N*T*Cqcom,pmk8350-pwrkey pm8941_pwrkey
 alias of:N*T*Cqcom,pmk8350-pwrkeyC* pm8941_pwrkey
 alias of:N*T*Cqcom,pmk8350-resin pm8941_pwrkey
 alias of:N*T*Cqcom,pmk8350-resinC* pm8941_pwrkey
+alias of:N*T*Cqcom,pmk8350-pwrkey-resin pm8941_pwrkey
+alias of:N*T*Cqcom,pmk8350-pwrkey-resinC* pm8941_pwrkey
 alias mhi:IPCR qrtr_mhi
 alias i2c:qualcomm,aw37004 oplus_camera_aw37004
 alias of:N*T*Cqualcomm,aw37004 oplus_camera_aw37004
