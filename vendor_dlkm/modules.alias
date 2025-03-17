@@ -89,6 +89,7 @@ alias of:N*T*Cqcom,audio-pkt-core-platform audio_pkt_dlkm
 alias of:N*T*Cqcom,audio-pkt-core-platformC* audio_pkt_dlkm
 alias of:N*T*Cqcom,tlmm-vm-mem-access gh_tlmm_vm_mem_access
 alias of:N*T*Cqcom,tlmm-vm-mem-accessC* gh_tlmm_vm_mem_access
+alias i2c:aw2023_led leds_aw2023
 alias of:N*T*Cqcom,msm-ext-disp msm_ext_display
 alias of:N*T*Cqcom,msm-ext-dispC* msm_ext_display
 alias of:N*T*Cqcom,sm8450-vidc msm_video
